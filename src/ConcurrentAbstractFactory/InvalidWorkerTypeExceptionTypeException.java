@@ -1,0 +1,4 @@
+package ConcurrentAbstractFactory;
+
+public class InvalidWorkerTypeExceptionTypeException extends InvalidVillageEntityTypeException {
+}
